@@ -12,6 +12,7 @@ p{
     font-style: italic;
 }
 image{
+    margin: 38px;
     border: 20px;
     padding: 20px solid blue;
 }
