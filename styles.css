@@ -5,14 +5,57 @@ body{
     font-family: cursive;
     font-weight: 1.5px;
 }
+header{
+    color: antiquewhite;
+    font-family: cursive;
+    align-content: center;
+
+}
 p{
     font-family: sans-serif;
     color: aquamarine;
     font-size: 12px;
     font-style: italic;
 }
-image{
-    margin: 38px;
-    border: 20px;
-    padding: 20px solid blue;
+
+.favorites{
+    border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
 }
+footer{
+    background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 20px
+}
+button:active {
+  transform: scale(0.95);
+}
+p::first-line {
+  font-weight: bold;
+}
+.favorites li :hover{
+    color: antiquewhite;
+    text-decoration: line-through;
+}
+form{
+    color: darkcyan;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 16px;
+    text-wrap: wrap;
+}
+form button{
+    color: lightgreen;
+    background-color: blueviolet;
+    text-decoration: line-through;
+}
+table{
+    background-color: whitesmoke;
+    border-style: dashed;
+    border-collapse: separate;
+    border: 2px black;
+
+}
+
