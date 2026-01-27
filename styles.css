@@ -53,7 +53,7 @@ form button{
 }
 table{
     background-color: lightgreen;
-    border-style: dashed;
+    border-style: dotted;
     border-collapse: separate;
     border: 2px black;
 
