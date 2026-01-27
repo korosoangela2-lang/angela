@@ -1,0 +1,17 @@
+body{
+    color: aqua;
+    background-color: black;
+    font-size: 16px;
+    font-family: cursive;
+    font-weight: 1.5px;
+}
+p{
+    font-family: sans-serif;
+    color: aquamarine;
+    font-size: 12px;
+    font-style: italic;
+}
+image{
+    border: 20px;
+    padding: 20px solid blue;
+}
