@@ -49,7 +49,7 @@ form{
 form button{
     color: lightgreen;
     background-color: blueviolet;
-    text-decoration: line-through;
+    text-decoration: underline;
 }
 table{
     background-color: lightgreen;
