@@ -7,3 +7,7 @@ you use git clone to download in the GitHub
 ## Technologies used
 HTML
 CSS
+## By "Angela koroso"
+## installation requirement
+git
+
