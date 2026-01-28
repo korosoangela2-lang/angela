@@ -13,5 +13,12 @@ you use git clone to download in the GitHub
  git
 ## installation instruction
 - Git Clone {"git clone git@github.com:korosoangela2-lang/angela.git"}
+# known bugs
+none
+# contact
+Korosoangela2@gmail.com
+# license
+MIT 2026
+
 
 
